@@ -3,6 +3,6 @@ matplotlib
 seaborn
 urlextract
 wordcloud
+numpy
 pandas
 emoji
-re
